@@ -1,14 +1,14 @@
 [
   {
     "id": "-400603",
-    "title": "مراسم محرم شهر آیسک",
+    "title": "Bein Sport 1",
     "filter": "ayas",
     "imgurl": "ayas",
-    "channelurl": "https://cdn.ayas.ir/channelayas.m3u8",
+    "channelurl": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch10/adaptive.m3u8",
     "description": "",
     "type": "m3u8",
     "isOnline": "1",
-    "urlImage": ""
+    "urlImage": "https://raw.githubusercontent.com/androidappsx/shabakatytv/refs/heads/main/api/img/bein_balckx.jpg"
   },
   {
     "id": "-400053",
