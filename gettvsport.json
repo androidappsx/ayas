@@ -16,8 +16,8 @@
     "filter": "tv",
     "imgurl": "tv3",
     "channelurl": "https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd",
-    "description": "mpd",
-    "type": "mpd",
+    "description": "m3u8",
+    "type": "m3u8",
     "isOnline": "1",
     "urlImage": ""
   },
