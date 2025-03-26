@@ -12,14 +12,14 @@
   },
   {
     "id": "-400053",
-    "title": "نماهنگ ظهر عاشورای حسینی سال 1445 ه.ق شهر آیسک",
+    "title": "Channel 14",
     "filter": "ayas",
     "imgurl": "ayas",
-    "channelurl": "http://109.122.242.99:8080/namahang1402.m3u8",
+    "channelurl": "https://stream.veo.buzz:6050/sport/ch16/adaptive.m3u8",
     "description": "",
     "type": "m3u8",
     "isOnline": "1",
-    "urlImage": ""
+    "urlImage": "https://api.veo.buzz/uploads/2023-08/7bb1a80d1ef0c8b98d5afb27134634e6.png"
   },
   {
     "id": "-400050",
