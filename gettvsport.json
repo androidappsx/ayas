@@ -15,9 +15,9 @@
     "title": "tv3",
     "filter": "tv",
     "imgurl": "tv3",
-    "channelurl": "http://7955e15a.rostelekom.xyz/iptv/L58NZSUP5Z4Z98/6131/index.m3u8",
-    "description": "شبکه 3 صدا و سیمای ایران",
-    "type": "m3u8",
+    "channelurl": "https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd",
+    "description": "mpd",
+    "type": "mpd",
     "isOnline": "1",
     "urlImage": ""
   },
